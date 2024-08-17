@@ -1,0 +1,61 @@
+1. Software Engineering - is the design, development, testing, and maintenance of software applications.
+   importance of software Engineering in technology industry.
+   -software engineering ensures the development of high quality, reliable and efficient software through systematic methodologies.
+   -software engineering provides tools abd practices necessary to build scalable system that can handle increasing loads and complexity without compromising performance.
+   - software engineering reduces the cost of software development and minimizing risks of project failures and help in managing resources effectively if properly practiced.
+2. identify and describe three key milestones in the evolution of software engineering.
+   - advent of object-oriented programming which introduced the concept of "object" in  as the fundamental building blocks of software. oop revolutionized software design by promoting code reuse, scalability and easier maintenance.
+   -advent of structured programming - structured programming brought clarity and discipline to software development, making code readable, maintainable and less prone to errors.
+   - the rise of agile methodologies - agile methodologies emerged as a response to the rigidity and inefficiency traditional software development model. agile have transformed the way software is developed and making the process more adaptive, customer-focused and efficient.
+3. list and briefly explain the phases of software development lifecycle.
+ - requirements - in this phase, the user needs and system requirements are collected and analyzed.
+ - design - in this phase, the software architecture is designed based on the requirements.
+ - implementation - writing code and building the software according to the design specifications.
+ - testing - the software is tested to find and fix any bugs. this ensures that the software meets quality standards and functional requirements.
+ - deployment - releasing the software to users.
+ - maintenance - providing ongoing support, updates and enhancements to the software after deployment.
+4. compare and contrast the waterfall and agile methodologies.
+ - waterfall uses linear and sequential approach while agile uses iterative and incremental approach.
+ - waterfall low - changes are difficult to accommodate while agile  can adapt to changes at any stage.
+ - waterfall detailed documentation at each stage while agile focuses on working software over documentation
+an example of waterfall scenario: developing software for a medical device, where regulatory compliance requires thorough documentation, and the requirements are well-defined and unlikely to change.
+an example of agile: developing a new e-commerce platform where market trends and user needs are constantly changing, requiring regular updates and adjustments to the software.
+5. roles and responsibilities of:
+   software developer - is responsible for writing, testing and maintaining the code that makes up a software application.
+   Quality assurance engineer - is responsible for ensuring that the software meets the required standards of quality, reliability and performance before it is released.
+   Project Manager - oversees the entire software development process, ensuring that the project is completed on time, within budget and meets the required quality standards.
+6. importance of Integrated Development Environments and Version Control Systems in the software development process.
+ -an integrated development is a software application that provides comprehensive tools to software developers for coding, debugging and testing software.
+  IDEs importance:
+     - it offer advanced code editors with features like syntax highlighting, code completion and real time error checking.
+     - most IDEs include tools for compiling , debugging and testing within the same environment, reducing the need to switch between different applications.
+     an example of IDEs are Visual studio code, IntelliJ IDEA and Eclipse.
+
+ -Version Control System - is a tool that helps track changes to code over time, allowing multiple developers to work on a project simultaneously without overwriting each other's work.
+  its importance:
+    - VCS allows developers to work on different features or bug fixes in parallel by creating branches.
+    - it allows multiple developers can work on the same project without the risk of overwriting each other's changes, which is crucial for team-based projects.
+    an examples of VCS are Git, Subversion and Mercurial.
+
+7. common challenges faced by software engineers:
+  - managing changing requirements - requirements in software projects can change frequently due to evolving business needs, market conditions or customer feedback which can lead to scope creep, project delays and increased complexity.  adopt agile methodologies which emphasizes flexibility and iterative progress making it easier to accommodate changes in requirements.
+  - time management and meeting deadlines - balancing multiple tasks, managing time effectively and meeting project deadlines can be difficult especially when unexpected issues arise. strategies to use: allocate specific blocks of time to focus on particular tasks without distractions and use task prioritization.
+
+8. different types of testing and their importance in software quality assurance.
+   unit testing - testing individual components of software in isolation to ensure that they work as expected. it ensures code quality by helping in identifying bugs and issues early in the development process.
+   integration testing - the individual components are tested collectively to ensure that they work together as expected.it ensures that different component which may have been deployed separately work together as intended.
+   system testing - it is testing the entire software system as a whole. it verifies that the entire software system works as expected from start to finish.
+   acceptance testing - the software is evaluated to ensure it meets the business requirements and is ready for deployment. it verifies that the software meets the business requirements specified by the stakeholders.
+
+   part 2
+
+1. prompt engineering - it is the process of crafting effective inputs to guide an AI to generate useful and   accurate responses.
+  importance of prompt engineering:
+   -it helps one to get better results from AI
+   - by carefully choosing the words and structure of your prompt, you can make sure the AI understand exactly what you want, leading to more accurate, relevant and useful responses.
+2. example of vague prompt: "tell me about technology"
+   example of improved prompt: "Explain the benefits of artificial intelligence in healthcare."
+
+   why the improved prompt is more effective.
+   - improved prompt is specific, focusing on "artificial intelligence in healthcare" rather than the broad and general term "technology"
+   -  improved prompt is clear in what it is asking for " benefits" of AI in healthcare which ensures that the response will address the positive impacts, rather than providing a general overview.
